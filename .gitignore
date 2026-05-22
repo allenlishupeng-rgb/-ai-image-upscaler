@@ -1,0 +1,8 @@
+__pycache__/
+jobs/
+vendor/
+*.log
+*.err
+*.zip
+.DS_Store
+Thumbs.db
